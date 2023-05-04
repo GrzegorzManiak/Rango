@@ -1,0 +1,9 @@
+[package]
+name = "rango" 
+version = "0.1.0" 
+authors = ["Grzegorz <git@Grzegorz.ie>"]
+edition = '2021'
+
+[dependencies]
+rocket = "0.4.11"
+handlebars = "4.3.6"
